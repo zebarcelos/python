@@ -41,7 +41,7 @@ elif preço > 30 and preço <= 50:
 else:
     print('Preço ALTO, não recomendada a compra!')'''
 #Exercicio 6
-price = int(input('Digite o preço de custo do seu produto: R$ '))
+'''price = int(input('Digite o preço de custo do seu produto: R$ '))
 if price <= 0:
     print('ERRO - Valor inválido ou negativo')
 elif price < 100:
@@ -51,4 +51,5 @@ elif price >= 100 and price < 300:
 elif price >= 300 and price < 1000: 
     print(f"O valor de venda do seu produto deve ser de {price*1.50}")
 else:
-    print(f"O valor de venda do seu produto deve ser de {price*1.50}")
+    print(f"O valor de venda do seu produto deve ser de {price*1.50}")'''
+#Exercicio 7
